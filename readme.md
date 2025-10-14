@@ -1,4 +1,4 @@
-Perfect! What you’ve pasted is essentially a **complete guide to setting up Sanity Visual Editing (inline/live preview) with Next.js App Router** using the new `next-sanity` v11 tools. Here’s a **summary of how it works** and how to integrate it into your project:
+
 
 ---
 
